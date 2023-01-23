@@ -164,17 +164,3 @@ API results can change and the library may not parse the new result. So you can 
 ```python3
 raw_dict = y.forecast_raw(UnitedKingdom.London)
 ```
-
-## 👨🏻‍💻 Author
-
-**Ramzan Bekbulatov**:
-- Telegram: [@rm_bk](https://t.me/rm_bk)
-- Github: [@uburuntu](https://github.com/uburuntu)
-
-## 💬 Contributing
-
-Contributions, issues and feature requests are welcome! 
-
-## 📝 License
-
-This project is [MIT](https://github.com/uburuntu/yaweather/blob/master/LICENSE) licensed.
